@@ -1,4 +1,4 @@
-# ApocalypseIsle
+# _Apocalypse_Isle_ DAYZ SERVER
 Welcome to Apocalypse Isle Wiki
 
 If you should want to really dig into what you can do on our server, this git is the place to be.
