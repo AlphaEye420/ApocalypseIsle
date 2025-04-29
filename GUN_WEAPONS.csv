@@ -21,7 +21,6 @@ Quadlocks,SLR,,308,Assault Rifles
 Quadlocks,Lee-Enfield SMLE MK4,,308,Rifles & Shotguns
 Quadlocks,Karabiner 98k,,762X54,Rifles & Shotguns
 Scorpion,Blackout's Modified KH9,,380,Submachine Gun
-SNAFU,Ash-12.7,,127X55,Artillery & Anti-Tank
 SNAFU,Snipex Alligator,,145x114,Artillery & Anti-Tank
 SNAFU,Chiappa Rhino,,357,Pistols
 SNAFU,APS,,380,Pistols
@@ -68,6 +67,7 @@ SNAFU,SA-80,,556,SNAFU Assault
 SNAFU,Saint Victor 556,,556,SNAFU Assault
 SNAFU,SG550,,556,SNAFU Assault
 SNAFU,PPSKN-42,,762X39,SNAFU Assault
+SNAFU,Ash-12.7,,127X55,SNAFU Heavy
 SNAFU,VSSK,,127X55,SNAFU Heavy
 SNAFU,FR-F2 Sniper Rifle,,308,SNAFU Heavy
 SNAFU,SNAFU RSASS,"DKMC, OD, Wood",308,SNAFU Heavy
