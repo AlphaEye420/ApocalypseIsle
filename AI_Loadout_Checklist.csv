@@ -24,7 +24,7 @@ Crusader,MERCENARIES,Crusaders,,Beige Tunic,Heavy,,Fair,Swords,Bandages,Castles,
 CrusaderDark,SHAMANS,Dark Crusaders,,Black Steel,Heavy,,Fair,Swords,Bandages,Rare in Map,Melee,Ambushes on Roads with Stealth
 Jedi,SHAMANS,Dark Knights,BLACK CLOAK,Black,Heavy,??,Pinpoint,Lightsword,??,??,??,Easter Egg (discover them to find out more)
 Jedi2,SHAMANS,Dark Knights,BLACK CLOAK,NBC,Heavy,??,Pinpoint,Lightsword,??,??,??,Easter Egg (discover them to find out more)
-JediMG,SHAMANS,Dark Knights,BLACK CLOAK,Stag Industries,Heavy,Minigun,Pinpoint,Lightsword,Rares,Events,Nothing,The Dark Knights Boss - Minigun Specialist
+JediMG,SHAMANS,Dark Knights,BLACK CLOAK,Stag Industries,Buffed,Minigun,Pinpoint,Lightsword,Rares,Events,Nothing,The Dark Knights Boss - Minigun Specialist
 AR15,EAST,Deer Clan,GREEN,Tropic,Ballistic,45-556,Decent,Knives,"Survivor, Ammo",Eastern Map,Weapons,AR Specialists & Well Armed
 SO,EAST,Deer Clan,GREEN,Ghillie,Medium,338,Deadly,Knives,"Survivor, Ammo",Rare in Map,Weapons,Accurate Tac21 Specialists
 AmmoHarbor,MERCENARIES,Harbor Clan,YELLOW,MVS,Heavy,9mm-308,Decent,,Ammo,Rare in Map,Upgrade,"5.7, ScarH & MPX Specialists"
@@ -55,8 +55,8 @@ Ravens,SHAMANS,Raven Clan,UEC,Hunting,None,9mm-308,Good,Machete,Ammo,Rare in Map
 Hospitaler,BRAWLERS,Saints Guard,,Black/Grey Tunic,Medium,,Good,Spear,Medic,Rare in Map,Melee,Spear Specialists with Knockback
 SnakeKnight,BRAWLERS,Snake Clan,SNAKE,Chainmail,Heavy,,Good,Warhammer,Melee Weaponry,Castles,Melee,Melee Specialists with Knockback
 Snake,SHAMANS,Snake Clan,SNAKE,Random Camo,Medium,Random,Good,Knives,Random w/ Rares,Rare in Map,Upgrade,Main loadout for Snake Clan
-SnakeDark,SHAMANS,Snake Clan,SNAKE,Guardian,Heavy,Flamethrower,Deadly,Staff,Random w/ Rares,Events,Weapons,Guards Boss - Flame Specialists
-SnakeMG,SHAMANS,Snake Clan,SNAKE,Guardian,Heavy,Minigun,Deadly,Long Sword,Random w/ Rares,Events,Nothing,The Snake Clan Boss - Minigun Specialist
+SnakeDark,SHAMANS,Snake Clan,SNAKE,Guardian,Buffed,Flamethrower,Deadly,Staff,Random w/ Rares,Events,Weapons,Guards Boss - Flame Specialists
+SnakeMG,SHAMANS,Snake Clan,SNAKE,Guardian,Buffed,Minigun,Deadly,Long Sword,Random w/ Rares,Events,Nothing,The Snake Clan Boss - Minigun Specialist
 SnakeRock,SHAMANS,Snake Clan,SNAKE,Rock Camo,Ballistic,??,??,??,??,??,??,Easter Egg (discover them to find out more)
 SnakeSpawn,SHAMANS,Snake Clan,SNAKE,Survivor,Light,Random,Good,Knives,Random,South Temple,All Things,Sims Freshie with random loot
 STAG,STAG,Stag Industries,STAG,Stag Industries,Ballistic,High Cal,Deadly,Knives,Random w/ Rares,Rare in Map,Upgrade,Carries largest weapons on server
