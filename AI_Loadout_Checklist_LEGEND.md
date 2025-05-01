@@ -2,7 +2,7 @@
 ### Columns to note:
 * NAME/FACTION/CLAN/ARMBAND - NOTE: The list is sorted by CLAN then FACTION then NAME
 * CLOTHING - NOTE: Most AI upgrade by looting - Checklist lists only the spawn setup
-* ARMOR - NOTE: AI may loot different armor
+* ARMOR - NOTE: AI may loot different armor - Dice emoji next to armor means chance to spawn 'None'
   * None (upon spawning in)
   * Light (cloth only)
   * Medium (helmet or vest minimum)
