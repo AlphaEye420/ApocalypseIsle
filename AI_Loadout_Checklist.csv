@@ -14,7 +14,7 @@ SpecialOperator_No50,MERCENARIES,Castle Clan,RSTA Target,Navy Camo,Light,Explosi
 SpecialOperator_NoLAW,MERCENARIES,Castle Clan,RSTA Target,Navy Camo,Light,50bmg,Good,,Mags,Archipelago,Upgrade,Guards Archipelago Castle - 50bmg Specialists
 BanditLoadout,RAIDERS,Criminals,,Random Camo,Light,Random,Decent,Knives,Random,Anywhere,All Things,Roams map looting - Starts with low gear
 BanditLoadout2,RAIDERS,Criminals,,Random Camo,Light,Random,Decent,Knives,Random,Anywhere,All Things,Roams map looting - Starts well geared
-PlayerSurvivorLoadout,RAIDERS,Criminals,,Street,None,380-45,Fair,Bats,"Survivor, Nav, Tools",Anywhere,All Things,Sims Freshie with random loot
+PlayerSurvivorLoadout,RAIDERS,Criminals,,Survivor,None,380-45,Fair,Bats,"Survivor, Nav, Tools",Anywhere,All Things,Sims Freshie with random loot
 SnowClan,RAIDERS,Criminals,,Winter Ghille,Heavy,338-408,Good,Swords,Random w/ Rares,Events,All Things,Winter map events only
 Team___,RAIDERS,Criminals,,Sweats,None,12g,Poor,Random,Boxing,??,??,Easter Egg (discover them to find out more)
 WeedDealerCiv,RAIDERS,Criminals,,Street,None,45,Good,Knives,"Weed, Bandages",Rare in Map,Weapons,45 PDW Specialists
@@ -44,7 +44,7 @@ FireFighterRedLoadout,BRAWLERS,Locals,,Red FireFighter,Light,,Poor,Axe,Tools,Civ
 FishermanLoadout,CIVILIAN,Locals,,Hunting,Light,12g-308,Fair,Knives,"Survivor, Ammo",Coastlines,Weapons,Ordinary Fisherman - Shotgun Specialists
 Human,CIVILIAN,Locals,,Street,None,,Poor,Knives,"Medic, Tools",Civil Locations,Clothing,Unarmed - typically hide when threatened
 HumanLoadout,CIVILIAN,Locals,,Street,Light,Low Cal,Poor,Knives,"Medic, Tools",Anywhere,All Things,Civilians willing to defend themselves
-SurvivorLoadout,CIVILIAN,Locals,,Street,Light,380-12g,Fair,Bats,"Survivor, Nav, Tools",Anywhere,All Things,Sims Freshie with random loot
+SurvivorLoadout,CIVILIAN,Locals,,Survivor,Light,380-12g,Fair,Bats,"Survivor, Nav, Tools",Anywhere,All Things,Sims Freshie with random loot
 PoliceLoadout,GUARDS,Locals,STAR,Police,Medium,9mm,Decent,Baton,Medic,Civil Locations,Weapons,Baretta & PDW Specialists
 DeputyLoadout,SHERIFF,Locals,STAR,Deputy,Medium,45,Good,Knives,"Medic, Mags",Civil Locations,Weapons,"45 Pistol, PDW, and SMG Specialists"
 SheriffLoadout,SHERIFF,Locals,STAR,Sheriff,Medium,357-12.7x55,Deadly,Swords,"Medic, Mags, Ammo",Civil Locations,Explosives,"Deagle, Shotgun & 12.7x55 Bulpup Specialists"
