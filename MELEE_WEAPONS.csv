@@ -25,10 +25,10 @@ Police Baton,Vanilla,Baton,Basic
 Stun Baton,Vanilla,Baton,Basic
 Brass Knuckles,Vanilla,Fist,Basic
 Battle Axe,Deerisle,Axe,Blunt & Bow
-Battle Axe,Deerisle,Axe,Blunt & Bow
+Battle Axe - Phantom,Deerisle,Axe,Blunt & Bow
 Celtic War Axe,Deerisle,Axe,Blunt & Bow
 Old Viking Axe,Deerisle,Axe,Blunt & Bow
-Battleaxe,TangoMedievalPack,Axe,Blunt & Bow
+2-Edge Battleaxe,TangoMedievalPack,Axe,Blunt & Bow
 Firefighter Axe,Vanilla,Axe,Blunt & Bow
 Hatchet,Vanilla,Axe,Blunt & Bow
 Pipe Axe,Vanilla,Axe,Blunt & Bow
@@ -44,17 +44,17 @@ WarHammer - Pike,Deerisle,Hammer,Blunt & Bow
 WarHammer - Prong,Deerisle,Hammer,Blunt & Bow
 WarHammer - Simple,Deerisle,Hammer,Blunt & Bow
 WarHammer - SkullCrusher,Deerisle,Hammer,Blunt & Bow
-Warhammer,TangoMedievalPack,Hammer,Blunt & Bow
-Warhammer,TangoMedievalPack,Hammer,Blunt & Bow
-Warhammer,TangoMedievalPack,Hammer,Blunt & Bow
-Warhammer,TangoMedievalPack,Hammer,Blunt & Bow
+Warhammer - Golden,TangoMedievalPack,Hammer,Blunt & Bow
+Warhammer - Short,TangoMedievalPack,Hammer,Blunt & Bow
+Warhammer - Bronze,TangoMedievalPack,Hammer,Blunt & Bow
+Warhammer - Spiked,TangoMedievalPack,Hammer,Blunt & Bow
 Crystal Mace,Deerisle,Mace,Blunt & Bow
 Mace,Vanilla,Mace,Blunt & Bow
 Spear - Hook Pike,Deerisle,Spear,Blunt & Bow
 Spear - Pike,Deerisle,Spear,Blunt & Bow
 Beskar Spear ,Lightsword,Spear,Blunt & Bow
 Spear,TangoMedievalPack,Spear,Blunt & Bow
-Spear,TangoMedievalPack,Spear,Blunt & Bow
+Spear - White,TangoMedievalPack,Spear,Blunt & Bow
 Staff_Copper Basic,Deerisle,Staff,Blunt & Bow
 Staff_Moon Basic,Deerisle,Staff,Blunt & Bow
 Staff_Skull Basic,Deerisle,Staff,Blunt & Bow
@@ -73,12 +73,12 @@ Aerondight Replica,Deerisle,Sword,Long Blade
 Bamboo Katana,Deerisle,Sword,Long Blade
 Berserk Sword,Deerisle,Sword,Long Blade
 Gladius,Deerisle,Sword,Long Blade
-Gladius,Deerisle,Sword,Long Blade
-Gladius,Deerisle,Sword,Long Blade
+Gladius - Tyler,Deerisle,Sword,Long Blade
+Gladius - Ornamental,Deerisle,Sword,Long Blade
 Katana,Deerisle,Sword,Long Blade
-Katana,Deerisle,Sword,Long Blade
-Katana,Deerisle,Sword,Long Blade
-Katana,Deerisle,Sword,Long Blade
+Katana - Luci,Deerisle,Sword,Long Blade
+Katana - Rallen,Deerisle,Sword,Long Blade
+Katana - Ding,Deerisle,Sword,Long Blade
 Replica Master Sword,Deerisle,Sword,Long Blade
 Twisted Greatsword,Deerisle,Sword,Long Blade
 Katana,SLC_Swords,Sword,Long Blade
@@ -88,15 +88,15 @@ Wakazashi,SLC_Swords,Sword,Long Blade
 Anduril,TangoMedievalPack,Sword,Long Blade
 Curved Sword,TangoMedievalPack,Sword,Long Blade
 Great Sword,TangoMedievalPack,Sword,Long Blade
-Long Sword,TangoMedievalPack,Sword,Long Blade
-Long Sword,TangoMedievalPack,Sword,Long Blade
-Long Sword,TangoMedievalPack,Sword,Long Blade
+Long Sword - Gold Touches,TangoMedievalPack,Sword,Long Blade
+Long Sword - Horned,TangoMedievalPack,Sword,Long Blade
+Long Sword - Black,TangoMedievalPack,Sword,Long Blade
 Sword,Vanilla,Sword,Long Blade
 Dundee's Knife,Crocodiles,Knives,Short Blade
 Forged Knife,Deerisle,Knives,Short Blade
-KarambitKnife,Deerisle,Knives,Short Blade
-KarambitKnife,Deerisle,Knives,Short Blade
-KarambitKnife,Deerisle,Knives,Short Blade
+KarambitKnife - Silver,Deerisle,Knives,Short Blade
+KarambitKnife - Red,Deerisle,Knives,Short Blade
+KarambitKnife - Blue,Deerisle,Knives,Short Blade
 S.T.A.G. Combat Knife,Deerisle,Knives,Short Blade
 Snake Dagger,Deerisle,Knives,Short Blade
 SnakeDagger Arbiters,Deerisle,Knives,Short Blade
