@@ -1,0 +1,137 @@
+﻿MOD NAME,LEVEL,TYPE,SIZE
+* Repacked Mod - BerzerkChimpanzee,1,AI/Animal/Z,TINY
+* Repacked Mod - BerzerksZombieKnights,1,AI/Animal/Z,SMALL
+* Repacked Mod - ZenExpAIAudio,1,AI/Animal/Z,SMALL
+/ServerSide - Spawner Bubaku,1,AI/Animal/Z,SMALL
+Ambient Animals Pack,1,AI/Animal/Z,MEDIUM
+Animal-Pack,1,AI/Animal/Z,SMALL
+Azoic Spider,1,AI/Animal/Z,SMALL
+CreepyZombies,1,AI/Animal/Z,MEDIUM
+DayZ-Expansion-AI,1,AI/Animal/Z,TINY
+dbo_creatures,1,AI/Animal/Z,SMALL
+dbo_raptors_123,1,AI/Animal/Z,MEDIUM
+dbo_spiders,1,AI/Animal/Z,SMALL
+MoreDinos,1,AI/Animal/Z,SMALL
+mutant Ghoul free,1,AI/Animal/Z,SMALL
+XZone STALKER Mutants,1,AI/Animal/Z,LARGE
+* Repacked Mod - NoSprintingZombies,2,AI/Animal/Z,SMALL
+AI ABDUCTORS,2,AI/Animal/Z,TINY
+Crocodile,2,AI/Animal/Z,MEDIUM
+* Repacked Mod - BubbleHeadNurse,3,AI/Animal/Z,TINY
+* Repacked Mod - GDZAnimalHeads,3,AI/Animal/Z,SMALL
+* Repacked Mod - InfectedWolf,3,AI/Animal/Z,SMALL
+CBD Zombies and Creatures,3,AI/Animal/Z,SMALL
+Dayz-Cat,3,AI/Animal/Z,SMALL
+MJO Prehistoric Fish Mod,3,AI/Animal/Z,SMALL
+* Repacked Mod - HelicopterLandingPad,2,BaseBuild,SMALL
+BaseBuildingPlus,2,BaseBuild,LARGE
+BBPItemPack,2,BaseBuild,SMALL
+Code Lock,2,BaseBuild,TINY
+DayZ-Expansion-BaseBuilding,2,BaseBuild,MEDIUM
+MuchFramework,2,BaseBuild,TINY
+MuchStuffPack,2,BaseBuild,HUGE
+* Repacked Mod - ZensCarWorkbench,3,BaseBuild,SMALL
+* Repacked Mod - BlackOps,1,Clothing,SMALL
+Modular Vest System,1,Clothing,LARGE
+* Repacked Mod - ArmbandBags,2,Clothing,SMALL
+* Repacked Mod - Junglecamos,2,Clothing,SMALL
+* Repacked Mod - KerberosGear,2,Clothing,MEDIUM
+* Repacked Mod - RealClothing,2,Clothing,SMALL
+WindstridesClothingPack,2,Clothing,LARGE
+* Repacked Mod - GhilliePaint,3,Clothing,TINY
+STALKER Retextures [Tactical Flava],3,Clothing,MEDIUM
+AirRaid,1,Event,SMALL
+DayZ-Expansion-Missions,1,Event,SMALL
+DayZ-Expansion-Quests,1,Event,SMALL
+DNA Keycards,1,Event,LARGE
+/ServerSide - Dynamic AI Missions,2,Event,TINY
+Alien Invasion,2,Event,SMALL
+Blackouts Truck Wrecks,2,Event,SMALL
+CBD Invasions,2,Event,SMALL
+RaG_Thunderstruck,2,Event,TINY
+* Repacked Mod - DITemperature,1,Framework,TINY
+* Repacked Mod - Metro2033RadioByBuddy,1,Framework,SMALL
+* Repacked Mod - SurvivorNameChanger,1,Framework,TINY
+/ServerSide - Gamelabs,1,Framework,SMALL
+/ServerSide - Weather Report,1,Framework,TINY
+BodyBags,1,Framework,TINY
+CF,1,Framework,TINY
+Community-Online-Tools,1,Framework,TINY
+Dabs Framework,1,Framework,SMALL
+DayZ-Expansion,1,Framework,MEDIUM
+DayZ-Expansion-Book,1,Framework,SMALL
+DayZ-Expansion-Chat,1,Framework,TINY
+DayZ-Expansion-Core,1,Framework,SMALL
+DayZ-Expansion-Hardline,1,Framework,TINY
+DayZ-Expansion-Market,1,Framework,SMALL
+DayZ-Expansion-Navigation,1,Framework,TINY
+DayZ-Expansion-Spawn-Selection,1,Framework,TINY
+DeerIsle Road Signs #2,1,Framework,SMALL
+Forever_Burning_Campfire,1,Framework,SMALL
+Lad's Lighting Overhaul,1,Framework,TINY
+SimpleTraderSigns_Expansion,1,Framework,TINY
+Zens Sleeping Mod,1,Framework,SMALL
+* Repacked Mod - AnimatedWindMill,2,Framework,TINY
+* Repacked Mod - BunkerAssets,2,Framework,SMALL
+* Repacked Mod - CrashedPlaneAsset,2,Framework,SMALL
+* Repacked Mod - FishyLogCabin,2,Framework,TINY
+* Repacked Mod - TreeHouse,2,Framework,TINY
+DayZ Mining System with Ores and Gems,2,Framework,LARGE
+* Repacked Mod - NPCStalkerExpansion,3,Framework,SMALL
+* Repacked Mod - StartWithBeard,3,Framework,TINY
+* Repacked Mod - Waterfall,3,Framework,SMALL
+* Repacked Mod - ZenSplitItemUI,3,Framework,TINY
+AmmoStackBullet,3,Framework,TINY
+HealthBar-Ninjins,3,Framework,TINY
+* Repacked Mod - LastResortDrunkenness,2,Fun,SMALL
+* Repacked Mod - SaucesBottleOfBeer,2,Fun,TINY
+_WTeamT_Playable_Guitar_v2,2,Fun,MEDIUM
+CannabisPlus,2,Fun,SMALL
+DrugsPLUS,2,Fun,SMALL
+* Repacked Mod - Metro2033LighterByBuddy,3,Fun,SMALL
+* Repacked Mod - RussianRoulette,3,Fun,SMALL
+* Repacked Mod - ZenNotes,3,Fun,TINY
+* Repacked Mod - ZensTreasure,3,Fun,TINY
+Shooting Range Targets,3,Fun,SMALL
+TF:Fireworks,3,Fun,TINY
+* Repacked Mod - ApocalypseIsle,1,Mulitple,MEDIUM
+DeerIsle,1,Mulitple,HUGE
+Tactical Flava,1,Mulitple,HUGE
+TangoMedievalPack,1,Mulitple,LARGE
+Quadlock's Pack,2,Mulitple,MEDIUM
+* Repacked Mod - Chevy Crown Vic,2,Vehicle,SMALL
+* Repacked Mod - Chevy Van,2,Vehicle,SMALL
+* Repacked Mod - FordBroncoXLT,2,Vehicle,SMALL
+[CrSk] BMW 525i E34,2,Vehicle,MEDIUM
+Arma 2 Helicopters Remastered,2,Vehicle,LARGE
+Blackouts Scorpion,2,Vehicle,MEDIUM
+DayZ-Expansion-Animations,2,Vehicle,TINY
+DayZ-Expansion-Licensed,2,Vehicle,LARGE
+DayZ-Expansion-Vehicles,2,Vehicle,LARGE
+DBN_FordRaptor_Scorpio,2,Vehicle,MEDIUM
+FlipTransport,2,Vehicle,TINY
+Gerphelius Zil-130,2,Vehicle,SMALL
+MBM_2012DodgeCharger,2,Vehicle,SMALL
+MBM_CanAm,2,Vehicle,TINY
+MBM_ChevyImpala1967,2,Vehicle,MEDIUM
+MBM_ChevySuburban1989,2,Vehicle,SMALL
+MBM_DodgeRam50,2,Vehicle,TINY
+MBM_RamRebel,2,Vehicle,SMALL
+RedFalcon Watercraft,2,Vehicle,MEDIUM
+THYER5 Sheriff and Police Mod,2,Vehicle,SMALL
+Zeroy-JeepWillys,2,Vehicle,SMALL
+CZLPoliceLightBar_Vanilla,3,Vehicle,SMALL
+NemesisNetworksCanAmRetexture,3,Vehicle,TINY
+Lightsword,1,Weapon,MEDIUM
+SNAFU Weapons,1,Weapon,HUGE
+* Repacked Mod - Huffy'sExplosiveCrossbowBolts,2,Weapon,TINY
+* Repacked Mod - NemsisFlamethrower,2,Weapon,SMALL
+* Repacked Mod - SLCSwords,2,Weapon,SMALL
+* Repacked Mod - ZenArtilieryStrike,2,Weapon,TINY
+DayZ-Expansion-Weapons,2,Weapon,LARGE
+* Repacked Mod - MBMGuns,3,Weapon,TINY
+* Repacked Mod - MBMGunsSNAFURetexturePack,3,Weapon,SMALL
+* Repacked Mod - MoreBatteries,3,Weapon,TINY
+* Repacked Mod - NemsisFlamethrowerCrafting,3,Weapon,SMALL
+* Repacked Mod - UniversalSuppressorsV2,3,Weapon,SMALL
+Sylver's Minigun,3,Weapon,TINY
