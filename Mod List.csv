@@ -10,7 +10,8 @@ Furniture,3,BaseBuild,0.000232,Adding at Wipe
 [CrSk] BMW 525i E34,2,Vehicle,0.149699,Removing at Wipe		
 Alien Invasion,2,Event,0.024723,Removing at Wipe		
 Blackouts Scorpion,2,Vehicle,0.130139,Removing at Wipe		
-CBD Invasions,2,Event,0.102564,Removing at Wipe		
+CBD Invasions,2,Event,0.102564,Removing at Wipe	
+DeerIsle Road Signs #2,1,Framework,0.073601,Removing at Wipe
 MJO Prehistoric Fish Mod,3,AI/Animal/Z,0.121833,Removing at Wipe		
 MuchFramework,2,BaseBuild,0.013320,Removing at Wipe		
 MuchStuffPack,2,BaseBuild,1.187491,Removing at Wipe		
@@ -107,8 +108,7 @@ DBN_FordRaptor_Scorpio,2,Vehicle,0.191203,
 dbo_creatures,1,AI/Animal/Z,0.027509,		
 dbo_raptors_123,1,AI/Animal/Z,0.132552,		
 dbo_spiders,1,AI/Animal/Z,0.028595,		
-DeerIsle,1,Mulitple,10.800000,		
-DeerIsle Road Signs #2,1,Framework,0.073601,		
+DeerIsle,1,Mulitple,10.800000,	
 DNA Keycards,1,Event,0.603635,		
 DrugsPLUS,2,Fun,0.017830,		
 FlipTransport,2,Vehicle,0.009532,		
