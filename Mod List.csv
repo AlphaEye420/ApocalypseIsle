@@ -1,6 +1,7 @@
 MOD NAME,LEVEL,TYPE,GB's,"NOTES		"
 * Repacked Mod - TreeHouse,2,Framework,0.000311,"Update at Wipe		"
 * Repacked Mod - ApocalypseIsle/ArmbandBags,1,Mulitple,0.093393,Update at Wipe
+CBD Invasions,2,Event,0.102564,Update at Wipe
 * Repacked Mod - GDZAnimalHeads,3,AI/Animal/Z,0.025238,"Removing	at Wipe"
 * Repacked Mod - ZensCarWorkbench,3,BaseBuild,0.013323,"Removing	at Wipe"
 * Repacked Mod - Waterfall,3,Framework,0.015355,"Removing at Wipe		"
@@ -12,19 +13,17 @@ MJO Prehistoric Fish Mod,3,AI/Animal/Z,0.121833,"Removing at Wipe		"
 MuchFramework,2,BaseBuild,0.01332,"Removing at Wipe		"
 MuchStuffPack,2,BaseBuild,1.187491,"Removing at Wipe		"
 RedFalcon Watercraft,2,Vehicle,0.112273,"Removing at Wipe		"
-Shooting Range Targets,3,Fun,0.048525,"Removing at Wipe		"
 Tactical Flava,1,Mulitple,1.395953,"Removing at Wipe		"
 WindstridesClothingPack,2,Clothing,0.893954,"Removing at Wipe		"
-CBD Invasions,2,Event,0.102564,"Removing at Wipe	"
 * Repacked Mod - ZenSplitItemUI,3,Framework,0.000018,Removing at Wipe
 DeerIsle Road Signs #2,1,Framework,0.073601,Removing at Wipe
 STALKER Retextures [Tactical Flava],3,Clothing,0.119308,Removing at Wipe
+* Repacked Mod - Alien Pack by Hare,3,AI/Animal/Z,0.044689,"Adding at Wipe		"
+* Repacked Mod - Croco_GasMask_Fix,3,Clothing,0.000001,"Adding at Wipe		"
 * Repacked Mod - ZenFireplaceStick,3,Framework,0.000011,"Adding at Wipe		"
-* Repacked Mod - ZeombieNun,3,AI/Animal/Z,0.00703,"Adding at Wipe		"
-Docs MVS Retexture,3,Clothing,0.061331,"Adding at Wipe		"
+* Repacked Mod - ZombieNun,3,AI/Animal/Z,0.00703,"Adding at Wipe		"
 Furniture,2,BaseBuild,0.000232,"Adding at Wipe		"
 MaharlikaPH_Boats,2,Vehicle,0.538329,"Adding at Wipe		"
-* Repacked Mod - Alien Pack by Hare,3,AI/Animal/Z,0.044689,"		"
 * Repacked Mod - AnimatedWindMill,2,Framework,0.07806,"		"
 * Repacked Mod - BerzerkChimpanzee,1,AI/Animal/Z,0.009793,"		"
 * Repacked Mod - BerzerksZombieKnights,1,AI/Animal/Z,0.0721,"		"
@@ -141,3 +140,4 @@ XZone STALKER Mutants,1,AI/Animal/Z,0.791944,"		"
 Zens Sleeping Mod,1,Framework,0.016435,"		"
 Zeroy-JeepWillys,2,Vehicle,0.08457,"		"
 DeerIsle,1,Mulitple,10.8,"	"
+Docs MVS Retexture,3,Clothing,0.061331,
